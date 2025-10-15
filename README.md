@@ -7,4 +7,5 @@
 
 "2nd Team Member: 20221050"
 "Project 03 version2 completed"
+ “3rd Team Member: 이승주”
 
