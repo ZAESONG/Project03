@@ -6,4 +6,5 @@
 "2nd Team Member:박민서"
 
 "2nd Team Member: 20221050"
+"Project 03 version2 completed"
 
